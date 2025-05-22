@@ -1,0 +1,21 @@
+######## barrios que aparecen como sub barrios "######
+
+Monte Castro   Floresta
+Parque Avellaneda  Floresta
+Parque Chas  Villa Urquiza
+
+###################### barrios no oficiales ########
+
+Congreso = Balvanera
+Barrio Norte = Recoleta 
+Tribunales = San Nicolás 
+Once = Balvanera
+Pompeya = Nueva Pompeya
+
+Palermo, Capital Federal  (si segundo miembro es Capital Federal quédate con primero)
+Puerto Madero, Centro (si segundo miembro es Centro quédate con primero)
+Palermo Chico, Palermo (si segundo miembro es Palermo quédate con segundo)
+Parque Las Heras, Barrio Norte (si segundo miembro es Barrio Norte quédate con segundo)
+Monte Castro, Floresta (si segundo miembro es Floresta y primer miembro es Monte Castro quédate con primero)
+Parque Avellaneda, Floresta (si segundo miembro es Floresta y primer miembro es Parque Avellaneda quédate con primero)
+Parque Chas, Villa Urquiza (si segundo miembro es Villa Urquiza y primer miembro es Parque Chas quédate con primero)
